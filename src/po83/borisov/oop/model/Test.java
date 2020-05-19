@@ -2,7 +2,8 @@ package po83.borisov.oop.model;
 
 public class Test {
     public static void main(String[] args) {
-        lab1tests();
+        System.out.println("Я сделаль!");
+        //lab1tests();
     }
 
     public static void lab1tests() {
